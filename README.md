@@ -10,24 +10,24 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 ## 🛠️ Projects
 
 **RadioGene Explorer** | Bioinformatics Scientist + Fullstack Developer | 2025
-Built an interactive dashboard using **Streamlit**, **Python**, and **SQL** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
-App: http://146.235.210.139:8501/
+- Built an interactive dashboard using **Streamlit**, **Python**, and **SQL** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
+- App: http://146.235.210.139:8501/
 
 **Docker Pipeline for RNA-seq and ATAC-seq** | Bioinformatics Scientist | 2025
-Created a **Dockerized pipeline** for automated processing of RNA-seq and ATAC-seq data.
-GitHub: docker_first_pipeline
+- Created a **Dockerized pipeline** for automated processing of RNA-seq and ATAC-seq data.
+- GitHub: docker_first_pipeline
 
 **Perfume Fragrance Sale Prediction App** | Fullstack Developer | 2024
-Developed a standalone Windows application to predict the sale potential of perfume fragrance combinations. Utilized **scikit-learn** for model training and **PyInstaller** for deployment.
-GitHub: Perfume_prediction_project
+- Developed a standalone Windows application to predict the sale potential of perfume fragrance combinations. Utilized **scikit-learn** for model training and **PyInstaller** for deployment.
+- GitHub: Perfume_prediction_project
 
 **Chromatin Variation in Drosophila Tissues** | Bioinformatics Scientist | 2023
-Analyzed ATAC-seq data to identify genotype-specific chromatin accessibility across four tissues in Drosophila melanogaster.
-GitHub: ATAC-seq-Project
+- Analyzed ATAC-seq data to identify genotype-specific chromatin accessibility across four tissues in Drosophila melanogaster.
+- GitHub: ATAC-seq-Project
 
 **mtgRNA-db: Multi-target CRISPR Guide RNA Database** | Deployment Engineer | 2023
-Led deployment and data integration for a web-based CRISPR guide RNA tool using **AWS**, **SQL**, **Rshiny**, and **ShinyApps.io**.
-App: https://modreklab.shinyapps.io/guiderna/
+- Led deployment and data integration for a web-based CRISPR guide RNA tool using **AWS**, **SQL**, **Rshiny**, and **ShinyApps.io**.
+- App: https://modreklab.shinyapps.io/guiderna/
 
 ## 📖 Publications 
 
