@@ -14,7 +14,7 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - Infinium Human Methylation 450K arrays
 - Differential expression/accessibility analysis (DESeq2, limma)
 - Motif analysis (MEME Suite, HOMER)
-- Transcript quantification (Salmon, HISAT2)
+- Transcript alignment and quantification (BWA, STAR, Salmon, HISAT2)
 - Genome annotation and visualization (UCSC Genome Browser, IGV)
 
 ### 📊 Data Science & Statistical Computing
@@ -33,8 +33,8 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - Database management: MongoDB (NoSQL), SQL, MS SQL (in progress)
 
 ### 🔍 Pathway & Functional Enrichment Analysis
-- GSEA, MSigDB, DAVID, Enrichr, Metascape
-- Pathway databases: Reactome, KEGG, IPA (Ingenuity Pathway Analysis)
+- GSEA, MSigDB, Enrichr, HOMER
+- Pathway databases: Reactome, KEGG
 
 ### 🧪 Molecular & Cellular Biology
 - Epigenetics (Epigenomics), Genetics (Genomic & Transcriptomic)
