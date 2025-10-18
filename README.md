@@ -4,8 +4,8 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 
 ## 🔬 About Me
 
-- 🧬 PhD in Bioinformatics
-- 📚 Currently pursuing a Fullstack Web Development Certificate (SQL, Python, HTML, JavaScript, Java, C#)
+- 🧬 **PhD in Bioinformatics**
+- 📚 Currently pursuing a **Fullstack Web Development Certificate** (SQL, Python, HTML, JavaScript, Java, C#)
 
 ## 🛠️ Projects
 
