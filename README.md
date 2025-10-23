@@ -10,7 +10,7 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 ## 🛠️ Projects
 
 **RadioGene Explorer** | Bioinformatics Scientist + Fullstack Developer | 2025
-- Built an interactive dashboard using **Streamlit**, **Python**, **JavaScript**, **SQLite**, and **SQL** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
+- Built an interactive dashboard using **Streamlit**, **Python**, **JavaScript**, **SQLite**, **SQL**, **Oracle Cloud Infracstructure-Database and Compute** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
 - App: http://146.235.210.139:8501/
 - An offline version can be download at: https://github.com/KhoiBio/RadiationResponseDB/blob/e11540ac1bc5b07785e9d61ad19546247df0b399/offline_embedded_json_html/radiogeneexplorer.html
 
