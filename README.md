@@ -46,6 +46,10 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - 🧬 **PhD in Bioinformatics**
 - 📚 Currently pursuing a **Fullstack Web Development Certificate** (SQL, Python, HTML, JavaScript, Java, C#)
 
+## 💰 Grant Award:
+- ARCS Foundation | John H. Richardson Endowed Postdoctoral Fellowship | Sep 2024 - Oct 2025
+**$67,000 funding in cancer research**
+
 ## 🛠️ Projects
 **RadioGene Explorer** | Bioinformatics Scientist + Fullstack Developer | 2025
 - Built an interactive dashboard using **Streamlit**, **Python**, **JavaScript**, **SQLite**, **SQL**, **Oracle Cloud Infracstructure-Database and Compute** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
