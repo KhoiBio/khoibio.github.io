@@ -50,12 +50,17 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - **$67,000 funding in cancer research** | ARCS Foundation | John H. Richardson Endowed Postdoctoral Fellowship | Sep 2024 - Oct 2025
 
 ## 🛠️ Projects
+**ELDA Analysis Pipeline** | Bioinformatics Scientist | 2026
+- Built a complete **R** pipeline for **Extreme Limiting Dilution Analysis (ELDA)** using **GLM modeling** and **statmod package in R** to estimate stem cell frequencies in cancer research, implementing bias-reduced maximum likelihood estimation with complementary log-log transformation.
+- Features: add, edit, delete tasks, mark tasks as completed, and data persistence across sessions.
+- Github: [https://github.com/KhoiBio/ELDA_analysis_pipeline/tree/main](https://github.com/KhoiBio/ELDA_analysis_pipeline)
+
 **To-Do List App** | Bioinformatics Scientist + Fullstack Developer | 2026
 - Built a task management application with **HTML**, **CSS**, **JavaScript**, and **Node.js** for full-stack functionality: front-end interactivity and back-end data persistence with localStorage (front-end) and Express + JSON file / database (back-end).
-- Features: add, edit, delete tasks, mark tasks as completed, and data persistence across sessions.
+- Features: Implements three-tier statistical testing framework: (1) likelihood ratio test for single-hit model validation, (2) deviance-based goodness-of-fit assessment, and (3) Pearson chi-square overdispersion detection, with automated interpretation of all p-values.
 - Live demo (front-end only):https://github.com/KhoiBio/JavaScript_and_React.js/tree/main/JavaScript/Calendar_todo_list
 - Full-stack version (Node.js back-end): https://github.com/KhoiBio/JavaScript_and_React.js/tree/main/React.js/Calendar_todo_list
-
+ 
 **RadioGene Explorer** | Bioinformatics Scientist + Fullstack Developer | 2025
 - Built an interactive dashboard using **Streamlit**, **Python**, **JavaScript**, **SQLite**, **SQL**, **Oracle Cloud Infracstructure-Database and Compute** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
 - App: http://146.235.210.139:8501/
