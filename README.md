@@ -59,6 +59,7 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - **$67,000 funding in cancer research** | ARCS Foundation | John H. Richardson Endowed Postdoctoral Fellowship | Sep 2024 - Oct 2025
 
 ## 🛠️ Projects
+
 **ELDA Analysis Pipeline** | Bioinformatics Scientist | 2026
 - Built a complete **R** pipeline for **Extreme Limiting Dilution Analysis (ELDA)** using **GLM modeling** and **statmod package in R** to estimate stem cell frequencies in cancer research, implementing bias-reduced maximum likelihood estimation with complementary log-log transformation.
 - Features: add, edit, delete tasks, mark tasks as completed, and data persistence across sessions.
