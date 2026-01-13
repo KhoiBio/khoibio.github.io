@@ -21,7 +21,7 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - Interactive dashboards: RShiny, Streamlit
 
 ### 🌐 Web Development & Full-Stack Applications
-- **Frontend**: HTML, CSS, JavaScript, **React.js**
+- **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js, SQL, MS SQL *(in progress)*
 - **Database**: MongoDB (NoSQL), SQLite, JSON storage
 - **Tools**: npm, Git/GitHub, localStorage, REST APIs
