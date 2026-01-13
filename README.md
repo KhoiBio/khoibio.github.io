@@ -50,6 +50,12 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - **$67,000 funding in cancer research** | ARCS Foundation | John H. Richardson Endowed Postdoctoral Fellowship | Sep 2024 - Oct 2025
 
 ## 🛠️ Projects
+**To-Do List App** | Bioinformatics Scientist + Fullstack Developer | 2026
+- Built a task management application with **HTML**, **CSS**, **JavaScript**, and **Node.js** for full-stack functionality: front-end interactivity and back-end data persistence with localStorage (front-end) and Express + JSON file / database (back-end).
+- Features: add, edit, delete tasks, mark tasks as completed, and data persistence across sessions.
+- Live demo (front-end only):https://github.com/KhoiBio/JavaScript_and_React.js/tree/main/JavaScript/Calendar_todo_list
+- Full-stack version (Node.js back-end): https://github.com/KhoiBio/JavaScript_and_React.js/tree/main/React.js/Calendar_todo_list
+
 **RadioGene Explorer** | Bioinformatics Scientist + Fullstack Developer | 2025
 - Built an interactive dashboard using **Streamlit**, **Python**, **JavaScript**, **SQLite**, **SQL**, **Oracle Cloud Infracstructure-Database and Compute** to visualize genes linked to radioresistance and explore related publications spanning the last 20 years.
 - App: http://146.235.210.139:8501/
