@@ -44,7 +44,12 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - Cell culture in ISO-compliant environments
 
 ### ☁️ Cloud & HPC Infrastructure
-- Cloud platforms: AWS (RDS, EC2), Oracle Cloud Infrastructure (OCI - Database and Compute)
+- AWS: S3, ECR, Batch, Fargate, Amplify, EC2, RDS
+- Serverless container orchestration for scalable bioinformatics workflows
+- Presigned URL–based large file ingestion pipelines (direct-to-S3 upload architecture)
+- Containerized compute environments using Docker with registry lifecycle management
+- Asynchronous job scheduling and status polling for distributed NGS processing
+- Oracle Cloud Infrastructure (OCI – Database and Compute)
 - HPC environments: SLURM, Unix/Linux
 - Parallel computing and job scheduling for large-scale bioinformatics workflows
 
@@ -59,6 +64,17 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 - **$67,000 funding in cancer research** | ARCS Foundation | John H. Richardson Endowed Postdoctoral Fellowship | Sep 2024 - Oct 2025
 
 ## 🛠️ Projects
+**Cloud-Native FASTQ Quality Control Platform** | Bioinformatics Engineer | 2026
+Live App: https://master.d2zm9byy88g2nn.amplifyapp.com/
+- Architected and deployed a full-stack NGS QC web application for user-uploaded FASTQ analysis using FastQC
+- Developed interactive frontend in React utilizing hooks (useState, useEffect, useCallback) for state management, job polling, and dynamic UI rendering
+- Implemented direct-to-object-storage uploads via presigned URLs to Amazon S3, eliminating backend file transfer bottlenecks
+- Containerized QC workflow with Docker for reproducible execution
+- Managed container lifecycle through Amazon Elastic Container Registry
+- Orchestrated scalable compute jobs using AWS Batch with cost-optimized serverless execution via AWS Fargate
+- Designed asynchronous architecture decoupling frontend UI from backend compute layer
+- Implemented real-time job status polling and dynamic QC visualization using Recharts
+- Engineered cost-efficient cloud infrastructure to eliminate idle compute overhead
 
 **ELDA Analysis Pipeline** | Bioinformatics Scientist | 2026
 - Built a complete **R** pipeline for **Extreme Limiting Dilution Analysis (ELDA)** using **GLM modeling** and **statmod package in R** to estimate stem cell frequencies in cancer research, implementing bias-reduced maximum likelihood estimation with complementary log-log transformation.
