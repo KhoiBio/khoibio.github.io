@@ -65,7 +65,7 @@ Welcome to my personal GitHub Pages site! I'm a **Postdoctoral Scholar in Bioinf
 
 ## 🛠️ Projects
 **Cloud-Native FASTQ Quality Control Platform** | Bioinformatics Engineer | 2026
-Live App: https://master.d2zm9byy88g2nn.amplifyapp.com/
+Live App: will provide if need to
 - Architected and deployed a full-stack NGS QC web application for user-uploaded FASTQ analysis using FastQC
 - Developed interactive frontend in React utilizing hooks (useState, useEffect, useCallback) for state management, job polling, and dynamic UI rendering
 - Implemented direct-to-object-storage uploads via presigned URLs to Amazon S3, eliminating backend file transfer bottlenecks
